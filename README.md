@@ -63,7 +63,7 @@ pnpm install
 pnpm dev
 ```
 
-### Frontend Features
+## Frontend Features
 
 - Login / Register: JWT saved in localStorage
 
